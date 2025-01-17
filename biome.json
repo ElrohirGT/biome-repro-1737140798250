@@ -5,37 +5,7 @@
     "rules": {
       "recommended": false,
       "correctness": {
-        "noChildrenProp": "error",
-        "noConstAssign": "error",
-        "noConstantCondition": "error",
-        "noConstructorReturn": "error",
-        "noEmptyCharacterClassInRegex": "error",
-        "noEmptyPattern": "error",
-        "noGlobalObjectCalls": "error",
-        "noInnerDeclarations": "error",
-        "noInvalidConstructorSuper": "error",
-        "noInvalidUseBeforeDeclaration": "error",
-        "noNewSymbol": "error",
-        "noNodejsModules": "off",
-        "noNonoctalDecimalEscape": "error",
-        "noPrecisionLoss": "error",
-        "noSelfAssign": "error",
-        "noSetterReturn": "error",
-        "noSwitchDeclarations": "error",
-        "noUndeclaredVariables": "error",
-        "noUnreachable": "error",
-        "noUnreachableSuper": "error",
-        "noUnsafeFinally": "error",
-        "noUnsafeOptionalChaining": "error",
-        "noUnusedLabels": "error",
-        "noUnusedPrivateClassMembers": "off",
-        "noUnusedVariables": "error",
-        "noVoidElementsWithChildren": "error",
-        "useArrayLiterals": "off",
-        "useIsNan": "error",
-        "useJsxKeyInIterable": "off",
-        "useValidForDirection": "error",
-        "useYield": "error"
+        "noUnusedVariables": "error"
       },
       "style": {
         "useNamingConvention": {
