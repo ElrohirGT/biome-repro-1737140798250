@@ -4,27 +4,6 @@
     "enabled": true,
     "rules": {
       "recommended": false,
-      "complexity": {
-        "noBannedTypes": "error",
-        "noExtraBooleanCast": "error",
-        "noMultipleSpacesInRegularExpressionLiterals": "error",
-        "noUselessCatch": "error",
-        "noUselessConstructor": "error",
-        "noUselessFragments": "error",
-        "noUselessLabel": "error",
-        "noUselessLoneBlockStatements": "error",
-        "noUselessRename": "error",
-        "noUselessStringConcat": "error",
-        "noUselessTernary": "error",
-        "noUselessThisAlias": "error",
-        "noUselessTypeConstraint": "error",
-        "noUselessUndefinedInitialization": "error",
-        "noVoid": "error",
-        "noWith": "error",
-        "useArrowFunction": "error",
-        "useLiteralKeys": "error",
-        "useRegexLiterals": "error"
-      },
       "correctness": {
         "noChildrenProp": "error",
         "noConstAssign": "error",
@@ -57,11 +36,6 @@
         "useJsxKeyInIterable": "off",
         "useValidForDirection": "error",
         "useYield": "error"
-      },
-      "security": {
-        "noDangerouslySetInnerHtml": "warn",
-        "noDangerouslySetInnerHtmlWithChildren": "error",
-        "noGlobalEval": "error"
       },
       "style": {
         "noArguments": "error",
