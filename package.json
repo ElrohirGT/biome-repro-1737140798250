@@ -5,7 +5,7 @@
 	"type": "module",
 	"scripts": {
 		"format": "biome format .",
-		"lint": "biome lint",
+		"lint": "biome lint --write --unsafe",
 		"check": "biome check",
 		"ci": "biome ci"
 	},
